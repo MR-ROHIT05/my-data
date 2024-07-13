@@ -1,2 +1,2 @@
-# my-data
-data
+# my first data repo
+data for power bi
