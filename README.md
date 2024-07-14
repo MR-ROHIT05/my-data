@@ -1,2 +1,2 @@
-# my first data repo
-data for power bi
+DATA ANALYSIS 
+ DASHBOARD power bi
